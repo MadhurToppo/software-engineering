@@ -1,7 +1,7 @@
 # Index
 
-[Database concepts](./database-concepts.md)
-[System design fundamentals](./system-design/system-design-fundamentals.md)
-[Microservices design patterns]
-[Advanced system design technologies]
-[java-commands](./java-commands.md)
+- [System design fundamentals](./system-design/system-design-fundamentals.md)
+- [Advanced system design technologies]
+- [Microservices design patterns]
+- [Database concepts](./system-design/database-concepts.md)
+- [java-commands](./java/java-commands.md)
