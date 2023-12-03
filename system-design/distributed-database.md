@@ -32,9 +32,11 @@
 
 - Permanent Failures Recovery
 
-  - Merkle trees (Anti-entropy)
+  - Merkle trees
+    (Anti-entropy)
 
-- Membership and Failure Detection
+- Membership and
+  Failure Detection
 
   - Gossip Protocol
 

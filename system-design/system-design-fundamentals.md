@@ -1,0 +1,120 @@
+---
+markmap:
+  initialExpandLevel: 1
+---
+
+# Fundamentals
+
+## Distributed systems key characteristics
+
+- **Scalability**
+
+  - Horizontal
+  - Vertical
+
+- **Availability**
+
+  - Redundancy and Replication
+  - Load balancing
+  - [Distributed data storage](./distributed-database.md)
+  - Consistency Models
+  - Monitoring and alerts
+  - Regular system
+    maintenance and updates
+  - Geographic distribution
+
+- **Latency and
+  Performance**
+
+  - Data Locality
+    - Data partitioning
+    - Sharding
+    - Data replication
+  - Load balancing
+    - Round robin
+    - Least connecstions
+    - Consistent hashing
+  - Caching
+    - In-memory Caching
+    - Distributed Caching
+    - Content delivery
+      networks (CDNs)
+
+- **Concurrency and
+  Coordination**
+
+  - Concurrency control
+    - Locking
+    - Optimistic concurrency
+      control
+    - Transactional memory
+  - Synchronization
+    - Barriers
+    - Semaphores
+    - Condition variables
+  - Consistency models
+  - Coordination services
+    (E.g. ZooKeeper, Consul)
+    - Configuration management
+    - Service discovery
+    - Leader election
+    - Distributed Locking
+
+- **Security and
+  Privacy**
+
+  - Authentication and
+    Authorization
+    - OAuth, JWT, Kerberos
+  - Data Encryption
+    - Symmetric and
+      asymmetric Encryption
+    - TLS/SSL protocols
+  - Secure communication
+    - TLS/SSl communication
+      protocols
+    - IPSec
+    - Application-level
+      encryption
+
+- **Monitoring and
+  Observability**
+
+  - Metrics collection
+    (Prometheus)
+  - Distributed Tracing
+    (Zipkin, OpenTelemetry)
+  - Logging
+    (ELK)
+  - Alerting and
+    Anomoly detection
+    (Grafana)
+  - Visualization and
+    Dashboards
+    (Grafana, Kibana)
+
+- **Resilience and
+  Error Handling**
+
+  - Fault Tolerance
+    - Redundancy in data,
+      services, nodes
+    - Replication
+    - Sharding
+    - Load balancing
+  - Graceful degradation
+    - Circuit breakers
+    - Timeouts
+    - Fallbacks
+  - Retry and Backoff
+    strategies
+  - Error handling
+    and Reporting
+    - Logging Errors
+    - Generating alerts
+    - Monitoring and
+      Observability
+    - Chaos Engineering
+      - Simulate real-world
+        failure scenarios
+        (Chaos Monkey)
