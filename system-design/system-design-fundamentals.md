@@ -100,6 +100,8 @@ markmap:
     - Redundancy in data,
       services, nodes
     - Replication
+    - Idempotent POST
+      (Idempotency-key in request header)
     - Sharding
     - Load balancing
   - Graceful degradation
