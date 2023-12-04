@@ -1,6 +1,6 @@
 ---
 markmap:
-  initialExpandLevel: 1
+  initialExpandLevel: 2
 ---
 
 # Fundamentals
@@ -16,7 +16,7 @@ markmap:
 
   - Redundancy and Replication
   - Load balancing
-  - [Distributed data storage](./distributed-database.md)
+  - [Distributed data storage](./distributed-data-storage.md)
   - Consistency Models
   - Monitoring and alerts
   - Regular system

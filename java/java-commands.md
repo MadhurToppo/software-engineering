@@ -2,7 +2,7 @@
 
 ## Create a Spring Boot Project from scratch using Curl command
 
-```sh
+```shell
 mkdir user-service && \
 curl https://start.spring.io/starter.tgz \
 -d 'type=gradle-project' \

@@ -1,4 +1,4 @@
-# Distributed database key characteristics
+# Distributed data storage key characteristics
 
 ## **Availability**
 
