@@ -26,8 +26,8 @@ markmap:
 ### **Latency and Performance**
 
 - Data Locality
-  - Data partitioning
   - Data replication
+  - Data partitioning
   - Sharding
 - Load balancing
   algorithms
@@ -66,7 +66,7 @@ markmap:
     asymmetric Encryption
   - TLS/SSL protocols
 - Secure communication
-  - TLS/SSl communication
+  - TLS/SSL communication
     protocols
   - IPSec
   - Application-level
