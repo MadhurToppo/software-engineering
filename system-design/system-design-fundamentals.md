@@ -2,7 +2,6 @@
 markmap:
   initialExpandLevel: 2
 ---
-
 # Fundamentals
 
 ## Distributed systems key characteristics
