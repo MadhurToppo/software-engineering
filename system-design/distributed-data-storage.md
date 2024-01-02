@@ -7,7 +7,7 @@ markmap:
 
 ## Key characteristics
 
-### **Availability**
+### Availability
 
 - High availability for reads
   - Sloppy Quorum
@@ -15,17 +15,17 @@ markmap:
 - High availability for writes
   - Vector clocks
 
-### **Scalability**
+### Scalability
 
 - Replication
 - Partitioning
   - Consistent hashing
 
-### **Fault Tolerance**
+### Fault Tolerance
 
 - Replication
 
-### **Failure**
+### Failure
 
 - Temporary Failures Recovery
   - Sloppy quorum
@@ -37,22 +37,22 @@ markmap:
   Failure Detection
   - Gossip Protocol
 
-### **Consistency**
+### Consistency
 
 - Data conflict resolution
 
-### **Always Writable Experience**
+### Always Writable Experience
 
 - Hinted hand-off
 
-### **Configure Faster Read-Write**
+### Configure Faster Read-Write
 
 - Through quorum protocol
 
-### **Anti-entropy**
+### Anti-entropy
 
 - Merkle trees
 
-### **Nodes peer-to-peer communication**
+### Nodes peer-to-peer communication
 
 - Gossip protocol

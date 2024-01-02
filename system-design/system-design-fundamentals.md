@@ -6,12 +6,12 @@ markmap:
 
 ## Distributed systems key characteristics
 
-### **Scalability**
+### Scalability
 
 - Horizontal
 - Vertical
 
-### **Availability**
+### Availability
 
 - Redundancy and Replication
 - Load balancing
@@ -22,7 +22,7 @@ markmap:
   maintenance and updates
 - Geographic distribution
 
-### **Latency and Performance**
+### Latency and Performance
 
 - Data Locality
   - Data replication
@@ -38,7 +38,7 @@ markmap:
   - Distributed Caching
   - CDN
 
-### **Concurrency and Coordination**
+### Concurrency and Coordination
 
 - Concurrency control
   - Locking
@@ -56,7 +56,7 @@ markmap:
   - Leader election
   - Distributed Locking
 
-### **Security and Privacy**
+### Security and Privacy
 
 - Authentication and Authorization
   - OAuth, JWT, Kerberos
@@ -71,7 +71,7 @@ markmap:
   - Application-level
     encryption
 
-### **Monitoring and Observability**
+### Monitoring and Observability
 
 - Metrics collection
   (Prometheus)
@@ -86,7 +86,7 @@ markmap:
   Dashboards
   (Grafana, Kibana)
 
-### **Resilience and Error Handling**
+### Resilience and Error Handling
 
 - Fault Tolerance
   - Redundancy in data,
