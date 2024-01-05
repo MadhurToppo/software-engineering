@@ -1,0 +1,83 @@
+* Key concepts
+** Load Balancer
+** API Gateway
+** Networking
+*** HTTP vs HTTPS
+*** TCP vs UDPA
+*** URL vs URI vs URN
+** DNS
+** Caching
+*** Key terminologies
+1. Cache
+2. Cache hit
+3. Cache miss
+4. Cache eviction
+5. Cache staleness
+*** Cache types
+1. Client Side Cache
+2. Load balancer Cache
+3. API Gateway Cache
+4. CDN Cache
+5. Web Server Cache
+6. Distributed File System Cache
+7. App Server Cache
+8. Distributed Cache for DB (Redis/Memcached)
+9. Serach Index Cache
+10. Coordination Service Cache
+11. Database Cache
+*** Cache Replacemant Policies
+- LRU, LFU and FIFO
+*** Cache Write Strategies
+- Write Through, Write Back and Write Around
+*** Cache Invalidation techniques
+- Purge, Refresh, Ban, TTL and Stale-while-revalidate
+*** Cache Read Strategies
+- Read Through and Read Aside
+*** Cache Consistnecy
+- Strong, weak and eventual consistency
+*** Cache Performance Metrics
+- Hit rate
+- Miss rate
+- Cache size
+- Cache latency
+** CDN
+*** Definition
+A CDN is a network of proxy servers to cache website content present in multiple locations.
+*** Key terminologies
+1. Point of Presence
+2. Edge Server
+3. Origin Server
+4. Cache Warming
+5. TTL
+6. Anycast
+7. Content Invalidation
+8. Cache Purging
+*** CDN Routing
+1. Anycast routing
+2. DNS based routing
+3. Geo-IP based routing
+*** CDN Types
+- Push and Pull CDN
+** Data Partitioning
+*** Partitioning methods
+- Horizontal, vertical and hybrid partitioning
+*** Sharding techniques
+1. Range-based
+2. Hash-based
+3. Directory-based
+4. Geographical
+5. Dynamic
+6. Hybrid
+** Proxies
+** Redundancy and Replication
+** CAP and PACELC Theorem
+** Databases (SQL/NoSQL)
+** Indexes
+** Bloom Filters
+** Long-Polling vs WebSockets vs Server-Sent Events
+** Quorum
+** Heartbeat
+** Checksum
+** Leader and Follower
+** Distributed Messaging System
+** Distributed File Systems
