@@ -80,4 +80,59 @@ A CDN is a network of proxy servers to cache website content present in multiple
 ** Checksum
 ** Leader and Follower
 ** Distributed Messaging System
+*** Types of messaging system
+1. Messaging queue
+2. Publish-subscribe messaging system
+*** Benefits
+1. Asynchronous communication
+2. Load balancing
+3. Fault Tolerance
+4. Message delivery guarantee
+5. Messaging buffering
+6. Message Persistence
+7. Scalability
+*** Kafka
+**** Key Characteristics (What)
+- Publisher-subscriber system
+- Distributed, durable, fault-tolerant and highly scalable
+**** Use Cases (Why)
+- Metrics or monitoring data aggregate
+- Log aggregation
+- Stream processing
+- Commit log
+- Product suggestions
+**** Kakfa key terminologies (How)
+- Brokers
+- Records
+- Topics
+- Producers
+- Consumers
+- Kafka cluster
+- Zookeeper
+*** Kafka vs RabbitMQ vs ActiveMQ
+- Perfomance and Scalability
+- Message Ordering
+- Message Priority
+- Message Model Protocol
 ** Distributed File Systems
+**** Key Characteristics (What)
+- Replication
+- Scalability
+- Consistency
+- Data Distribution
+- Fault Tolerance
+**** Use Cases (Why)
+- Cloud file storage services
+- Big Data Applications
+- High-performance computing
+**** Key components
+- Client interface
+- Metadata servers
+- Storage nodes
+- Replication and redundancy mechanism
+- Load balancer
+- Network infrastructure
+- Fault tolerance and recovery mechanisms
+- Security features
+**** Examples
+HDFS, GFS, Amazon EFS, Microsoft DFS
